@@ -1,11 +1,8 @@
-ErlsMarktplatz
-==============
+#ErlsMarktplatz
 
-now Dated 16122013. the name is changed to ErlsMarktplatz
+Now Dated 16122013. the name is changed to ErlsMarktplatz
 
-
-CommerceEShop
--------------
+##CommerceEShop
 
 Now changed the name to Shop-AT-Erls
 
